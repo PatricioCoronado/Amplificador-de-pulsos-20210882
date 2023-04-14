@@ -3,7 +3,7 @@
 **Proyecto OT:20210882**
 # DESCRIPCIÓN
 ## Amplificador de pulsos 
-## Desarrollado por SEGAINVEX-Electrónica para el [Departamento de Física de la Materia Condensada de la UAM](https://www.fmc.uam.es/research/nano-spm-lab/)
+## Desarrollado por SEGAINVEX-Electrónica para el [Instituto de Física de la Materia Condensada de la UAM](https://www.ifimac.uam.es/)
 ##
 ![Alt text](https://github.com/PatricioCoronado/Amplificador-de-pulsos-20210882/blob/main/Imagenes/frontal2.JPG "equipo")
 
