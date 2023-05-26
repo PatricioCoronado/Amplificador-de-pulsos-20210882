@@ -9,7 +9,8 @@
 
 # [DATASHEET](https://github.com/PatricioCoronado/Amplificador-de-pulsos-20210882/blob/main/Documentacion/Datasheet.pdf)
 
-# [ESQUEMAS](https://github.com/PatricioCoronado/Amplificador-de-pulsos-20210882/blob/main/esquemas/)
+# [ESQUEMAS](https://github.com/PatricioCoronado/Amplificador-de-pulsos-20210882/tree/main/Esquemas)
+
 
 # OSCILOGRAMAS
 ##
